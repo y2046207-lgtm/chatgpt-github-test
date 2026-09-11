@@ -1,0 +1,2 @@
+ChatGPT GitHub connection test.
+Created to verify write and read access through the ChatGPT GitHub connector.
